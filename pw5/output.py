@@ -1,0 +1,10 @@
+def show_menu():
+    print("\n===== OOP Student Mark Manager (PW5) =====")
+    print("1. Add Student")
+    print("2. Add Course")
+    print("3. Input Student Marks")
+    print("4. List Students")
+    print("5. List Courses")
+    print("6. Show Marks for a Course")
+    print("7. Show Students Sorted by GPA")
+    print("0. Exit and Save")
